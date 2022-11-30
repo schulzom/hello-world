@@ -1,5 +1,6 @@
 # hello-world
-1. repo
+1. repository
 
 Schulcz János
 ☕
+Módosítás...
